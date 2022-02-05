@@ -4,13 +4,166 @@ title: Calendar
 uid: 8d51d6fa-2db0-8405-75c1-b62ff2938cbb
 ---
 
-| Class # | In-Class Activities | Readings | Online Resources |
-| --- | --- | --- | --- |
-| 1 | Housekeeping | &nbsp; |
-| 2 | Map Test |  {{< br >}}{{< br >}} *   Huntington, Samuel P. "What?" In _The Third Wave_. Pp. 3-26.{{< br >}}*   Karl, Terry, and Philippe C. Schmitter. "What Democracy is...and is Not."{{< br >}}*   Diamond, Larry. "Is the Third Wave of Democratization Over?"{{< br >}}*   Zakaria, Fareed. "The Rise of Illiberal Democracy." {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Maps of the World](http://www.lib.utexas.edu/maps/americas.html) {{< br >}}{{< br >}}  |
-| 3 | &nbsp; |  {{< br >}}{{< br >}} *   Dahl, Robert. "Does Polyarchy Matter?"{{< br >}}*   Diamond, Larry. "Defining and Developing Democracy."{{< br >}}*   Huntington, Samuel P. "What?"{{< br >}}*   Machiavelli, Niccolo. "The Masses are Wiser and More Constant than a Prince." _The Discourses_, Book 1.{{< br >}}*   Madison, James. "Numbers 10 and 51."{{< br >}}*   Huntington, Samuel P. "The Political Gap."{{< br >}}*   Dahl, Robert. _Democracy and Its Critics_. Pp. 52-79.{{< br >}}*   Sen, Amartya. "Democracy as a Universal Value."{{< br >}}*   Dugger, Cecilia. "Why Democracy Means So Little to Pakistan's Poor."{{< br >}}*   Onishi, Norimitsu. "Political Reforms Reach Nigeria's Gasoline Pumps." {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Class Debate: Does Democracy Matter? {{< br >}}{{< br >}} Paper #1 due three days after class 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   _Freedom in the World._ Chapter on Singapore.{{< br >}}*   Kingsbury, Damien. "Singapore: The Corporate State". In _South-East Asia: A Political Profile._ Pp. 325-351.{{< br >}}*   Zakaria, Fareed. "Culture is Destiny: A Conversation with Lee Kuan Yew."{{< br >}}*   Jung, Kim Dae. "Is Culture Destiny? The Myth of Anti-Democratic Values. A Response to Lee Kuan Yew."{{< br >}}*   Fukuyama, Francis. "Confucianism and Democracy."{{< br >}}*   Mydans, Seth. "Soapbox Orators Stretch the Limits of Democracy." {{< br >}}{{< br >}} For Further Reading (Not Required): {{< br >}}{{< br >}} *   Bell, Daniel A. _East Meets West_.{{< br >}}*   Emmerson, Donald K. "Singapore and the 'Asian Values' Debate."{{< br >}}*   Lanser, Thomas R. "Rights, Respect, and 'Asian Values'."{{< br >}}*   Freeman, Michael. "Human Rights, Democracy, and 'Asian Values'." {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [MIT Writing Center](http://web.mit.edu/writing/) {{< br >}}{{< br >}} [Freedom House](http://www.freedomhouse.org/) {{< br >}}{{< br >}} [Amnesty International](http://www.amnesty.org/) {{< br >}}{{< br >}} [Human Rights Watch](http://www.hrw.org/) {{< br >}}{{< br >}} [Government of Singapore](http://www.gov.sg/) {{< br >}}{{< br >}}  |
-| 5 | &nbsp; |  {{< br >}}{{< br >}} *   Huntington, Samuel P. _The Third Wave_. Pp. 31-108.{{< br >}}*   Rustow, Dankwart. "Transitions to Democracy: Toward a Dynamic Model." {{< br >}}{{< br >}} For Further Reading (Not Required): {{< br >}}{{< br >}} *   On Economic Development {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Class #
+{{< thclose >}}
+{{< thopen >}}
+In-Class Activities
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+{{< thopen >}}
+Online Resources
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Housekeeping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Map Test
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Huntington, Samuel P. "What?" In _The Third Wave_. Pp. 3-26.
+*   Karl, Terry, and Philippe C. Schmitter. "What Democracy is...and is Not."
+*   Diamond, Larry. "Is the Third Wave of Democratization Over?"
+*   Zakaria, Fareed. "The Rise of Illiberal Democracy."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Maps of the World](http://www.lib.utexas.edu/maps/americas.html)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dahl, Robert. "Does Polyarchy Matter?"
+*   Diamond, Larry. "Defining and Developing Democracy."
+*   Huntington, Samuel P. "What?"
+*   Machiavelli, Niccolo. "The Masses are Wiser and More Constant than a Prince." _The Discourses_, Book 1.
+*   Madison, James. "Numbers 10 and 51."
+*   Huntington, Samuel P. "The Political Gap."
+*   Dahl, Robert. _Democracy and Its Critics_. Pp. 52-79.
+*   Sen, Amartya. "Democracy as a Universal Value."
+*   Dugger, Cecilia. "Why Democracy Means So Little to Pakistan's Poor."
+*   Onishi, Norimitsu. "Political Reforms Reach Nigeria's Gasoline Pumps."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Debate: Does Democracy Matter?
+
+Paper #1 due three days after class 4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   _Freedom in the World._ Chapter on Singapore.
+*   Kingsbury, Damien. "Singapore: The Corporate State". In _South-East Asia: A Political Profile._ Pp. 325-351.
+*   Zakaria, Fareed. "Culture is Destiny: A Conversation with Lee Kuan Yew."
+*   Jung, Kim Dae. "Is Culture Destiny? The Myth of Anti-Democratic Values. A Response to Lee Kuan Yew."
+*   Fukuyama, Francis. "Confucianism and Democracy."
+*   Mydans, Seth. "Soapbox Orators Stretch the Limits of Democracy."
+
+For Further Reading (Not Required):
+
+*   Bell, Daniel A. _East Meets West_.
+*   Emmerson, Donald K. "Singapore and the 'Asian Values' Debate."
+*   Lanser, Thomas R. "Rights, Respect, and 'Asian Values'."
+*   Freeman, Michael. "Human Rights, Democracy, and 'Asian Values'."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[MIT Writing Center](http://web.mit.edu/writing/)
+
+[Freedom House](http://www.freedomhouse.org/)
+
+[Amnesty International](http://www.amnesty.org/)
+
+[Human Rights Watch](http://www.hrw.org/)
+
+[Government of Singapore](http://www.gov.sg/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Huntington, Samuel P. _The Third Wave_. Pp. 31-108.
+*   Rustow, Dankwart. "Transitions to Democracy: Toward a Dynamic Model."
+
+For Further Reading (Not Required):
+
+*   On Economic Development
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Lipset, Seymour Martin. _Political Man._ Pp. 27-30.
 *   Haggard, Stephan., and Robert R. Kaufman. _The Political Economy of Democratic Transition._ Pp_._ 25-44.
